@@ -12,7 +12,7 @@ Then, the software send the credentials to a Telegram account using a bot.
 
 # How to set up the Telegram connection
 
-In the source code, there's my publicy available bot (that could disappear suddendly, so I strongly advise you to create a bot and change that line in the source code).
+In the source code (when I will publish id), there's my publicy available bot (that could disappear suddendly and can be viewed or modified by anyone running the anygen.exe binary file, so I strongly advise you to create a bot and change that line in the source code).
 
 So, you can just simply start AnyGen.exe and follow instructions: this will generate a 7zip SFX silent bundle associated with your Telegram chat with the chosen bot.
 
